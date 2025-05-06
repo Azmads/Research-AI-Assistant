@@ -1,6 +1,11 @@
 # Research-AI-Assistant
 Simple Research Agent with user friendly GUI
 
+Project members 
+Adam Martinez 
+Bryton McClintock 
+Chad Jones 
+Ailin Estrada
 
 Final Agent Project for ITAI 2376
 
